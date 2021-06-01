@@ -1,2 +1,3 @@
 333
 git has a mutable index called satge
+git tracks changes of files
